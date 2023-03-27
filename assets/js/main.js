@@ -130,8 +130,9 @@ portotabs.forEach((tab, index) => {
 // });
 
 let swiper = new Swiper(".portfolio__container", {
+  cssMode: true,
   slidesPerView: 1,
-  spaceBetween: 350,
+  spaceBetween: 35,
   loop: false,
   pagination: {
     el: ".swiper-pagination",

@@ -306,7 +306,7 @@ img {
 }
 
 .home__blob-img {
-  width: 230px;
+  width: 240px;
 }
 
 .home__data {
@@ -411,7 +411,7 @@ img {
 /*==================== ABOUT ====================*/
 
 .about__img {
-  width: 200px;
+  width: 225px;
   border-radius: 0.5rem;
   justify-self: center;
   align-self: center;
@@ -1120,9 +1120,9 @@ img {
   .about__container {
     column-gap: 5rem;
   }
-
-  /* .about__img {
-    width: 350px;
+  /* 
+  .about__img {
+    width: 50px;
   } */
   .about__description {
     text-align: initial;
